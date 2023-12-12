@@ -1,1 +1,1 @@
-# It will suggest the movies to the users on the basis of watching history of the user
+# It will suggest movies to the users on the basis of their watching history 
